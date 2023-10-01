@@ -1,7 +1,7 @@
-# **Bienvenido al repositorio de AntonioMDO!** 😃👨‍🔬
+# **Bienvenido al repositorio de AntonioMDO!** 👨‍🔬
 
-## **Modelos de Clasificación Supervisados (ML)**
-![Machine learning]()
+## **Machine learning para clasificar clientes (ML)**
+![Machine learning](https://github.com/AntonioMDO/Machine_learning/blob/main/img/Creador%20de%20l%C3%ADneas%20de%20tiempo%20de%20proyecto.jpg)
 
 ### **Breve descripción:**
 Con machine learning en python.
